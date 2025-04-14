@@ -1,3 +1,3 @@
-# Java_assigbment
+# Java_assignment
 Name:-Akshar Mishra  
 Roll no.:-22CS04
